@@ -1,5 +1,5 @@
 {
-  "PC_01": { "url": "https://twitch.tv/streamerA", "action": "watch" },
+  "PC_01": { "url": "https://twitch.tv/AwizoTV", "action": "watch" },
   "PC_02": { "url": "https://twitch.tv/streamerB", "action": "watch" },
   "PC_03": { "url": "https://twitch.tv/offline", "action": "idle" }
 }
